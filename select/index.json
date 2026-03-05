@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "勇気100%",
+  "base_artist": "なにわ男子",
+  "createdAt": "2026-03-05T13:52:31.529355Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "勇気100% (第1期 OP)",
+      "artist": "菅野穣",
+      "has_synced": true,
+      "path": "select/01_勇気100__(第1期_OP)_菅野穣.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "勇気100% (忍たま乱太郎)",
+      "artist": "菅野穣",
+      "has_synced": true,
+      "path": "select/02_勇気100__(忍たま乱太郎)_菅野穣.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "勇気100%",
+      "artist": "Naniwa Danshi",
+      "has_synced": true,
+      "path": "select/03_勇気100_Naniwa_Danshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勇気100%",
+      "artist": "なにわ男子",
+      "has_synced": false,
+      "path": "select/pl_01_勇気100_なにわ男子.txt"
+    }
+  ]
+}
